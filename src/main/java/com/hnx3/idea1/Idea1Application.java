@@ -18,6 +18,7 @@ public class Idea1Application {
         public String strCo2()
         {
             return "co2!";
+
         }
     }
 }
