@@ -1,0 +1,1 @@
+The “nothing to commit, working directory clean” message tells us all of the changes we have made to a Git repository are committed. This means the current state of our project folder is exactly the same as that of the last commit. When you add, remove, or delete a file, this message will change.
